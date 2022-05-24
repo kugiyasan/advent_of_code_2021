@@ -1,3 +1,6 @@
 [workspace]
-members = ["d1_sonar_sweep"]
+members = [
+  "d1_sonar_sweep",
+  "d2_dive",
+]
 
