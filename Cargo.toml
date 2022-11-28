@@ -2,5 +2,6 @@
 members = [
   "d1_sonar_sweep",
   "d2_dive",
+  "d3_binary_diagnostic",
 ]
 

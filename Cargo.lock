@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "d2_dive"
 version = "0.1.0"
+
+[[package]]
+name = "d3_binary_diagnostic"
+version = "0.1.0"
